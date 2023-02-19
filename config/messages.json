@@ -1,0 +1,9 @@
+{
+    "REQUIRED_VOICE_CHANNEL": "❌ - Você precisa estar em um canal de voz para executar esse comando",
+    "REQUIRED_OWNER": "❌ - Apenas os donos do bot podem executar esse comando",
+    "REQUIRED_PERMISSIONS": "👮‍♀️ - Você não tem permissão para executar esse comando",
+    "BOT_REQUIRED_PERMISSIONS": "😭 - Eu não tenho poder suficiente para executar esse comando",
+    "REQUIRED_PARAMETER": "❗ - O Argumento `$argName` deve ser informado",
+    "MEMBER_NOT_FOUND": "❗ - o membro `$argMember` não foi encontrado no servidor",
+    "ON_ERROR": "Ops! Um erro ocorreu ```arm\n$error\n```"
+}
